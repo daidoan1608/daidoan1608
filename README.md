@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Đại</h1>
 <h3 align="center">A back end developer from VietNam</h3>
 
+- 🌱 I’m currently learning **Viet Nam National University of Agriculture (VNUA)**,**VTI Academy**
+<br>
 - 📫 How to reach me **daidoan1608@gmail.com**
 
+<img src="/332341986_652675843296574_5005110959307926665_n.jpg"
+alt="Description of the image"
+style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/dmd.zeus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dmd.zeus" height="30" width="40" /></a>
