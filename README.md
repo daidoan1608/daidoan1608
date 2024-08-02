@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Đại</h1>
 <h3 align="center">A back end developer from VietNam</h3>
-
-- 🌱 I’m currently learning <a href="https://vnua.edu.vn/" target="_blank" rel="noreferrer">Viet Nam National University of Agriculture (VNUA)</a>, <a href="https://vtiacademy.edu.vn/" target="_blank" rel="noreferrer">VTI Academy</a>.
 <br>
-- 📫 How to reach me <a href="mailto:daidoan1608@gmail.com">daidoan1608@gmail.com</a>
-
 <img src="/332341986_652675843296574_5005110959307926665_n.jpg"
 alt="Description of the image"
 style="display: block; margin-left: auto; margin-right: auto; max-width: 100%; height: auto;"/>
+
+- 🌱 I’m currently learning <a href="https://vnua.edu.vn/" target="_blank" rel="noreferrer" style="text-decoration: none">Viet Nam National University of Agriculture (VNUA)</a>, <a href="https://vtiacademy.edu.vn/" target="_blank" rel="noreferrer" style="text-decoration: none">VTI Academy</a>.<br>
+- 📫 How to reach me <a href="mailto:daidoan1608@gmail.com" style="text-decoration: none">daidoan1608@gmail.com</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/dmd.zeus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dmd.zeus" height="30" width="40" /></a>
