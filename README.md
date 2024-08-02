@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Đại</h1>
 <h3 align="center">A back end developer from VietNam</h3>
 
-- 🌱 I’m currently learning **Viet Nam National University of Agriculture (VNUA)**,**VTI Academy**
+- 🌱 I’m currently learning <a href="https://vnua.edu.vn/" target="_blank" rel="noreferrer">Viet Nam National University of Agriculture (VNUA)</a>, <a href="https://vtiacademy.edu.vn/" target="_blank" rel="noreferrer">VTI Academy</a>.
 <br>
-- 📫 How to reach me **daidoan1608@gmail.com**
+- 📫 How to reach me <a href="mailto:daidoan1608@gmail.com">daidoan1608@gmail.com</a>
 
 <img src="/332341986_652675843296574_5005110959307926665_n.jpg"
 alt="Description of the image"
