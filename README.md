@@ -80,8 +80,8 @@ passions: Clean Code, System Architecture, Performance Optimization
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daidoan1608&show_icons=true&theme=slate&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daidoan1608&layout=compact&theme=slate&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="155" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=daidoan1608&show_icons=true&theme=slate&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" height="155" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=daidoan1608&layout=compact&theme=slate&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" height="155" alt="Top Languages" />
 </div>
 
 <div align="center" style="margin-top: 10px;">
