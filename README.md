@@ -91,7 +91,7 @@ passions: Clean Code, System Architecture, Performance Optimization
 </div>
 
 <div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=daidoan1608&theme=slate&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideNums=ffffff&currStreakNum=38bdf8&sideLabels=cbd5e1&dates=94a3b8&cache_bust=1" height="155" alt="Streak Stats" />
+  <img src="./assets/streak.svg" height="155" alt="Streak Stats" />
 </div>
 
 <br>
